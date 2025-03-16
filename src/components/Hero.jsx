@@ -29,7 +29,7 @@ const FoodieJournal = () => {
       name: "Fried Momos",
       rating: 4.8,
       tags: ["Street Food", "Crispy"],
-      image: "https://example.com/fried-momos.jpg",
+      image: "/fried momos.jpg",
       description:
         "Crispy and flavorful dumplings filled with delicious stuffing.",
     },
@@ -38,7 +38,7 @@ const FoodieJournal = () => {
       name: "Pav Bhaji",
       rating: 4.9,
       tags: ["Indian", "Spicy"],
-      image: "https://example.com/pav-bhaji.jpg",
+      image: "pav bhaji.jpg",
       description: "A spicy mashed vegetable curry served with buttered pav.",
     },
     {
@@ -46,7 +46,7 @@ const FoodieJournal = () => {
       name: "Chowmein",
       rating: 4.7,
       tags: ["Chinese", "Noodles"],
-      image: "https://example.com/chowmein.jpg",
+      image: "chowmein.jpg",
       description: "Stir-fried noodles tossed with veggies and sauces.",
     },
     {
@@ -54,7 +54,7 @@ const FoodieJournal = () => {
       name: "Manchurian",
       rating: 5.0,
       tags: ["Chinese", "Spicy"],
-      image: "https://example.com/manchurian.jpg",
+      image: "manchurian.jpg",
       description: "Crispy veggie balls in a spicy Manchurian sauce.",
     },
     {
@@ -62,7 +62,7 @@ const FoodieJournal = () => {
       name: "Burger",
       rating: 4.5,
       tags: ["Fast Food", "American"],
-      image: "https://example.com/burger.jpg",
+      image: "burger.jpg",
       description: "A juicy patty served in a bun with lettuce and sauces.",
     },
     {
@@ -70,7 +70,7 @@ const FoodieJournal = () => {
       name: "French Fries",
       rating: 4.9,
       tags: ["Fast Food", "Crispy"],
-      image: "https://example.com/french-fries.jpg",
+      image: "frenchfries.jpg",
       description: "Golden and crispy potato fries, perfect for snacking.",
     },
     {
@@ -78,7 +78,7 @@ const FoodieJournal = () => {
       name: "Chocolate Truffle",
       rating: 4.6,
       tags: ["Dessert", "Chocolatey"],
-      image: "https://example.com/chocolate-truffle.jpg",
+      image: "chocolate truflle.jpg",
       description: "A rich and dense chocolate cake layered with ganache.",
     },
     {
@@ -86,15 +86,15 @@ const FoodieJournal = () => {
       name: "Maggi",
       rating: 4.8,
       tags: ["Instant", "Comfort Food"],
-      image: "https://example.com/maggi.jpg",
+      image: "maagi.jpg",
       description: "Instant noodles cooked with spices and veggies.",
     },
     {
       id: 9,
-      name: "Butter Jaan",
+      name: "Butter Naan",
       rating: 4.7,
       tags: ["Punjabi", "Rich"],
-      image: "https://example.com/butter-naan.jpg",
+      image: "Butter naan.jpg",
       description: "Soft and buttery naan, a perfect companion for curries.",
     },
     {
@@ -102,7 +102,7 @@ const FoodieJournal = () => {
       name: "Masala Dosa",
       rating: 4.6,
       tags: ["South Indian", "Crispy"],
-      image: "https://example.com/masala-dosa.jpg",
+      image: "Dosa.jpg",
       description: "A thin, crispy dosa filled with spiced potato stuffing.",
     },
     {
@@ -110,7 +110,7 @@ const FoodieJournal = () => {
       name: "Half Fry",
       rating: 4.9,
       tags: ["Breakfast", "Egg"],
-      image: "https://example.com/half-fry.jpg",
+      image: "Half fry egg.jpeg",
       description:
         "Sunny-side-up eggs with a soft yolk, perfect for breakfast.",
     },
@@ -119,7 +119,7 @@ const FoodieJournal = () => {
       name: "Onion Rings",
       rating: 4.8,
       tags: ["Fast Food", "Crispy"],
-      image: "https://example.com/onion-rings.jpg",
+      image: "Onion Rings.jpeg",
       description: "Crispy battered onion rings, a great crunchy snack.",
     },
     {
@@ -127,7 +127,7 @@ const FoodieJournal = () => {
       name: "Pizza",
       rating: 4.7,
       tags: ["Italian", "Cheesy"],
-      image: "https://example.com/pizza.jpg",
+      image: "Pizza.jpeg",
       description: "Cheesy and loaded with toppings on a crispy crust.",
     },
     {
@@ -135,7 +135,7 @@ const FoodieJournal = () => {
       name: "Aloo Paratha",
       rating: 4.5,
       tags: ["Punjabi", "Stuffed"],
-      image: "https://example.com/aloo-paratha.jpg",
+      image: "Aloo Paratha.jpeg",
       description: "A stuffed flatbread with spiced mashed potatoes.",
     },
     {
@@ -143,7 +143,7 @@ const FoodieJournal = () => {
       name: "Paneer Tikka",
       rating: 4.8,
       tags: ["Indian", "Grilled"],
-      image: "https://example.com/paneer-tikka.jpg",
+      image: "paneer tikka.jpeg",
       description: "Grilled paneer cubes marinated in flavorful spices.",
     },
     {
@@ -151,7 +151,7 @@ const FoodieJournal = () => {
       name: "Kulche Chole",
       rating: 4.9,
       tags: ["Punjabi", "Spicy"],
-      image: "https://example.com/kulche-chole.jpg",
+      image: "Chole Kulche.jpeg",
       description: "Soft kulchas served with spicy and tangy chole.",
     },
     {
@@ -159,7 +159,7 @@ const FoodieJournal = () => {
       name: "Malai Chaap",
       rating: 4.6,
       tags: ["Mughlai", "Creamy"],
-      image: "https://example.com/malai-chaap.jpg",
+      image: "Malai Chaap Recipe.jpeg",
       description: "Creamy and flavorful chaap cooked in rich gravy.",
     },
     {
@@ -167,7 +167,7 @@ const FoodieJournal = () => {
       name: "Chocolate Lava Cake",
       rating: 4.9,
       tags: ["Dessert", "Chocolatey"],
-      image: "https://example.com/lava-cake.jpg",
+      image: "Chocolate Lava Cake.jpeg",
       description: "A gooey and molten chocolate-filled dessert.",
     },
     {
@@ -175,7 +175,7 @@ const FoodieJournal = () => {
       name: "Sandwiches",
       rating: 4.5,
       tags: ["Breakfast", "Quick Bites"],
-      image: "https://example.com/sandwich.jpg",
+      image: "Sandwiches.jpeg",
       description: "Layered with fresh veggies and cheese in soft bread.",
     },
     {
@@ -183,7 +183,7 @@ const FoodieJournal = () => {
       name: "Gol Gappe",
       rating: 5.0,
       tags: ["Street Food", "Tangy"],
-      image: "/public/golgappe.jpeg",
+      image: "golgappe.jpeg",
       description: "Crispy puris filled with spicy and tangy flavored water.",
     },
   ];
@@ -695,11 +695,9 @@ const FoodieJournal = () => {
                   }`}
                 >
                   <div className="h-60 overflow-hidden relative">
-                    <div className="absolute inset-0 bg-gradient-to-br from-amber-500 to-orange-500 opacity-70 z-10"></div>
+                    <div className="absolute inset-0 opacity-70 z-10"></div>
                     <img
-                      src={`/api/placeholder/800/600?text=${encodeURIComponent(
-                        item.name
-                      )}`}
+                      src={item.image}
                       alt={item.name}
                       className="w-full h-full object-cover"
                     />
@@ -709,7 +707,7 @@ const FoodieJournal = () => {
                         className={`w-10 h-10 rounded-full flex items-center justify-center backdrop-blur-md transition-all transform hover:scale-110 ${
                           likedItems.includes(item.id)
                             ? "bg-rose-100 text-rose-600 border border-rose-200"
-                            : "bg-white/50 text-gray-400 border border-gray-200"
+                            : "bg-white-50 text-white border border-gray-200"
                         }`}
                       >
                         <Heart
@@ -717,7 +715,7 @@ const FoodieJournal = () => {
                           fill={
                             likedItems.includes(item.id)
                               ? "currentColor"
-                              : "none"
+                              : "#ffffff"
                           }
                         />
                       </button>
@@ -726,7 +724,7 @@ const FoodieJournal = () => {
                         className={`w-10 h-10 rounded-full flex items-center justify-center backdrop-blur-md transition-all transform hover:scale-110 ${
                           bookmarkedItems.includes(item.id)
                             ? "bg-blue-100 text-blue-600 border border-blue-200"
-                            : "bg-white/50 text-gray-400 border border-gray-200"
+                            : "bg-white-50 text-white border border-gray-200"
                         }`}
                       >
                         <Bookmark
@@ -734,7 +732,7 @@ const FoodieJournal = () => {
                           fill={
                             bookmarkedItems.includes(item.id)
                               ? "currentColor"
-                              : "none"
+                              : "#ffffff"
                           }
                         />
                       </button>
