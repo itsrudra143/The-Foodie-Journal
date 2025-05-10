@@ -12,22 +12,19 @@ Welcome to **Foodie Journal**, a vibrant and modern frontend web application for
 - 🗒️ **Recipe Journal**: Browse a collection of delicious recipes with detailed descriptions.
 - ❤️ **Bookmark & Favorite Recipes**: Save your favorite dishes to revisit anytime.
 - 📱 **Responsive Design**: Fully optimized for mobile, tablet, and desktop.
-- 🎨 **Clean UI/UX**: Focus on user experience with intuitive design and smooth transitions.
+- 🎨 **Clean UI/UX**: Tailwind CSS for sleek, modern styling and fast performance.
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **React.js** – Frontend Framework  
-- **HTML5** – Semantic Markup  
-- **CSS3** – Styling and Layout  
-- **JavaScript (ES6+)** – Logic and Interactions  
+- **Tailwind CSS** – Utility-first CSS framework for styling  
+- **JavaScript (ES6+)** – Application logic and interactivity  
 - **Netlify** – Deployment & Hosting
 
 ---
 
-
----
 
 ## 🌟 Future Enhancements
 
@@ -41,7 +38,7 @@ Welcome to **Foodie Journal**, a vibrant and modern frontend web application for
 
 ## 🙌 Acknowledgements
 
-This project was built with love for food, React, and UI/UX design. It serves as a frontend-only demo to showcase modern web development practices and a passion for creating joyful digital experiences.
+This project was built with love for food, React, and clean UI design using Tailwind CSS. It serves as a frontend-only demo to showcase modern web development practices and a passion for creating joyful digital experiences.
 
 ---
 
